@@ -60,4 +60,19 @@ public static partial class ClipboardService
     {
         setAction(text);
     }
+
+    ///// <summary>
+    ///// Clears the Clipboard and then adds text data to it.
+    ///// </summary>
+    //public static Task SetLinesAsync(List<string> lines, Cancellation cancellation = default)
+    //{
+    //    return setAsyncAction(string.Join(Environment.), cancellation);
+    //}
+    ///// <summary>
+    ///// Clears the Clipboard and then adds text data to it.
+    ///// </summary>
+    //public static void SetLines(List<string> lines)
+    //{
+    //    setAction();
+    //}
 }
