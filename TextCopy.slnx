@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="src/AndroidApp/AndroidApp.csproj" />
+  <Project Path="src/BlazorSample/BlazorSample.csproj" />
+  <Project Path="src/TestConsole/TestConsole.csproj" />
+  <Project Path="src/Tests/Tests.csproj" />
+  <Project Path="src/TextCopy/TextCopy.csproj" />
+  <Project Path="src/UapApp/UapApp.csproj" />
+  <Project Path="src/Weavers/Weavers.csproj" />
+  <Project Path="src/iOSApp/iOSApp.csproj" />
+</Solution>
